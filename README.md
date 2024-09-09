@@ -52,8 +52,6 @@ Optimizing driving behaviors like steady speeds and reducing idling improves fue
 ## Future Work
 Expand the dataset, deploy on the cloud, add advanced visualizations, and incorporate environmental and traffic data.
 
-## License
-This project is licensed under the MIT License.
-```
 
-You can directly paste this into your `README.md` file on GitHub!
+
+
